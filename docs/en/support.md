@@ -1,5 +1,3 @@
-# BiteLog Support Page
-
 ## App Overview
 
 BiteLog is an application that allows you to easily track your daily calorie and macronutrient (protein, fat, carbohydrates) intake through daily meal logging.
