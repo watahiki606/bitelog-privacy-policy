@@ -1,5 +1,3 @@
-# BiteLog Privacy Policy
-
 Last Updated: March 11, 2024
 
 ## Introduction
