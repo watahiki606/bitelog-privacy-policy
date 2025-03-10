@@ -1,6 +1,6 @@
 # BiteLog Privacy Policy
 
-Last Updated: [Current Month] [Current Day], 2024
+Last Updated: March 11, 2024
 
 ## Introduction
 
@@ -47,11 +47,6 @@ The App is not intended to collect personal information from children under the 
 
 This Privacy Policy may be changed. If there are any changes, we will notify you within the App or on our website.
 
-## Contact Us
-
-If you have any questions or comments regarding this Privacy Policy, please contact us at:
-
-Email Address: [Your Email Address]
 
 ---
 
